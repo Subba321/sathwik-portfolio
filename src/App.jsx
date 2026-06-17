@@ -414,7 +414,7 @@ function ContactSection() {
         <div className="flex gap-8 mt-4">
           {[
             { label:"GitHub", href:"https://github.com/Subba321" },
-            { label:"LinkedIn", href:"https://linkedin.com" },
+            { label:"LinkedIn", href:"https://www.linkedin.com/in/subbasathwik" },
             { label:"Email", href:"mailto:Sathwiksubba04@gmail.com" },
           ].map((link) => (
             <a key={link.label} href={link.href} target="_blank" rel="noreferrer"
